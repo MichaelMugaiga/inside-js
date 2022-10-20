@@ -32,7 +32,7 @@ const _6_actual = !NaN;
 console.assert(_6_actual === _6_expect, 'Test 6');
 
 const _7_expect = 'false';
-const _7_actual = !'fdsa';
+const _7_actual = !'asdf';
 console.assert(_7_actual === _7_expect, 'Test 7');
 
 const _8_expect = 'false';
